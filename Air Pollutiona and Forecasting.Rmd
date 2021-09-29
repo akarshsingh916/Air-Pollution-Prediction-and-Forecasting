@@ -2,7 +2,9 @@
 title: "Air Quality Prediction and Forecasting"
 author: "Great_vishnu"
 date: "4/4/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 ## Cleaning The data
 
